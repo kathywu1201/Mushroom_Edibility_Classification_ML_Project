@@ -1,0 +1,6 @@
+﻿Model,mean_test,std_test
+Logistic Regression,0.861978,0.001789
+Random Forest,0.999951,0.000073
+KNN,0.999967,0.000045
+XGBoost,0.999689,0.000157
+SVC,0.999935,0.000131

@@ -1,0 +1,161 @@
+___________Model knn___________
+---------Random State = 0---------
+Fitting 4 folds for each of 7 candidates, totalling 28 fits
+[CV 1/4] END kneighborsclassifier__n_neighbors=9;, score=(train=0.999, test=0.998) total time=  14.7s
+[CV 4/4] END kneighborsclassifier__n_neighbors=9;, score=(train=1.000, test=0.999) total time=  14.7s
+[CV 1/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  14.7s
+[CV 2/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  14.6s
+[CV 2/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  14.6s
+[CV 1/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.998) total time=  15.0s
+[CV 3/4] END kneighborsclassifier__n_neighbors=9;, score=(train=1.000, test=0.999) total time=  14.6s
+[CV 2/4] END kneighborsclassifier__n_neighbors=9;, score=(train=1.000, test=1.000) total time=  14.9s
+[CV 3/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  16.2s
+[CV 4/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  17.0s
+[CV 1/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.998) total time=  12.9s
+[CV 3/4] END kneighborsclassifier__n_neighbors=12;, score=(train=1.000, test=0.999) total time=  14.2s
+[CV 4/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  14.4s
+[CV 2/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  14.3s
+[CV 4/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  14.4s
+[CV 3/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  14.5s
+[CV 1/4] END kneighborsclassifier__n_neighbors=30;, score=(train=1.000, test=0.999) total time=  14.6s
+[CV 2/4] END kneighborsclassifier__n_neighbors=30;, score=(train=0.999, test=1.000) total time=  14.9s
+[CV 3/4] END kneighborsclassifier__n_neighbors=30;, score=(train=0.999, test=0.999) total time=  16.0s
+[CV 4/4] END kneighborsclassifier__n_neighbors=30;, score=(train=0.999, test=0.999) total time=  16.6s
+[CV 1/4] END kneighborsclassifier__n_neighbors=50;, score=(train=0.999, test=0.999) total time=  12.9s
+[CV 3/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=0.999) total time=  12.9s
+[CV 2/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=1.000) total time=  14.3s
+[CV 1/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.998, test=0.997) total time=  13.0s
+[CV 3/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.997, test=0.997) total time=  13.0s
+[CV 4/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=1.000) total time=  14.6s
+[CV 2/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.997, test=0.998) total time=  14.3s
+[CV 4/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.998, test=0.998) total time=  14.6s
+---------Random State = 42---------
+Fitting 4 folds for each of 7 candidates, totalling 28 fits
+[CV 2/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  13.4s
+[CV 1/4] END kneighborsclassifier__n_neighbors=9;, score=(train=1.000, test=0.999) total time=  13.4s
+[CV 1/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  14.8s
+[CV 3/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  13.4s
+[CV 3/4] END kneighborsclassifier__n_neighbors=9;, score=(train=0.999, test=0.999) total time=  13.6s
+[CV 2/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  13.5s
+[CV 1/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  13.7s
+[CV 4/4] END kneighborsclassifier__n_neighbors=9;, score=(train=1.000, test=1.000) total time=  13.6s
+[CV 4/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  13.7s
+[CV 2/4] END kneighborsclassifier__n_neighbors=9;, score=(train=1.000, test=0.999) total time=  15.9s
+[CV 3/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.998) total time=  13.3s
+[CV 4/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  13.5s
+[CV 3/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  13.8s
+[CV 1/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  14.9s
+[CV 4/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=1.000) total time=  13.5s
+[CV 2/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  13.7s
+[CV 1/4] END kneighborsclassifier__n_neighbors=30;, score=(train=0.999, test=0.999) total time=  13.9s
+[CV 2/4] END kneighborsclassifier__n_neighbors=30;, score=(train=1.000, test=1.000) total time=  13.8s
+[CV 3/4] END kneighborsclassifier__n_neighbors=30;, score=(train=0.999, test=0.999) total time=  13.8s
+[CV 4/4] END kneighborsclassifier__n_neighbors=30;, score=(train=0.999, test=1.000) total time=  16.8s
+[CV 1/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=1.000) total time=  13.6s
+[CV 2/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=1.000) total time=  13.8s
+[CV 3/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=0.999) total time=  13.5s
+[CV 1/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.997, test=0.997) total time=  13.7s
+[CV 3/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.998, test=0.998) total time=  13.5s
+[CV 2/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.998, test=0.998) total time=  13.6s
+[CV 4/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.998, test=0.998) total time=  13.5s
+[CV 4/4] END kneighborsclassifier__n_neighbors=50;, score=(train=0.999, test=1.000) total time=  14.5s
+---------Random State = 84---------
+Fitting 4 folds for each of 7 candidates, totalling 28 fits
+[CV 1/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  13.4s
+[CV 2/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  13.4s
+[CV 3/4] END kneighborsclassifier__n_neighbors=9;, score=(train=0.999, test=0.999) total time=  13.5s
+[CV 2/4] END kneighborsclassifier__n_neighbors=9;, score=(train=1.000, test=0.999) total time=  13.5s
+[CV 4/4] END kneighborsclassifier__n_neighbors=9;, score=(train=1.000, test=0.999) total time=  13.4s
+[CV 3/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  13.5s
+[CV 2/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  13.5s
+[CV 1/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  13.6s
+[CV 4/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  14.9s
+[CV 1/4] END kneighborsclassifier__n_neighbors=9;, score=(train=0.999, test=0.999) total time=  15.9s
+[CV 3/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  12.3s
+[CV 1/4] END kneighborsclassifier__n_neighbors=30;, score=(train=0.999, test=0.999) total time=  13.9s
+[CV 2/4] END kneighborsclassifier__n_neighbors=30;, score=(train=1.000, test=1.000) total time=  12.9s
+[CV 4/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  14.4s
+[CV 4/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  13.8s
+[CV 3/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  14.5s
+[CV 1/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  14.8s
+[CV 2/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.998) total time=  14.7s
+[CV 3/4] END kneighborsclassifier__n_neighbors=30;, score=(train=0.999, test=0.999) total time=  15.5s
+[CV 4/4] END kneighborsclassifier__n_neighbors=30;, score=(train=1.000, test=1.000) total time=  16.8s
+[CV 1/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=1.000) total time=  15.0s
+[CV 2/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=0.999) total time=  13.9s
+[CV 3/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=0.999) total time=  14.3s
+[CV 4/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=1.000) total time=  13.2s
+[CV 1/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.997, test=0.998) total time=  13.9s
+[CV 2/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.998, test=0.997) total time=  14.0s
+[CV 3/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.997, test=0.998) total time=  14.2s
+[CV 4/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.998, test=0.998) total time=  14.0s
+---------Random State = 126---------
+Fitting 4 folds for each of 7 candidates, totalling 28 fits
+[CV 4/4] END kneighborsclassifier__n_neighbors=9;, score=(train=0.999, test=0.999) total time=  13.8s
+[CV 2/4] END kneighborsclassifier__n_neighbors=9;, score=(train=0.999, test=0.999) total time=  13.6s
+[CV 3/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  13.9s
+[CV 2/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  13.9s
+[CV 1/4] END kneighborsclassifier__n_neighbors=9;, score=(train=1.000, test=0.999) total time=  13.9s
+[CV 1/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  14.0s
+[CV 3/4] END kneighborsclassifier__n_neighbors=9;, score=(train=0.999, test=0.999) total time=  13.9s
+[CV 2/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  13.9s
+[CV 1/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  15.3s
+[CV 4/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  16.4s
+[CV 1/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  13.8s
+[CV 3/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  14.1s
+[CV 2/4] END kneighborsclassifier__n_neighbors=30;, score=(train=0.999, test=1.000) total time=  14.3s
+[CV 4/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  13.6s
+[CV 3/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  13.7s
+[CV 2/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  13.7s
+[CV 4/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  13.9s
+[CV 1/4] END kneighborsclassifier__n_neighbors=30;, score=(train=1.000, test=1.000) total time=  13.7s
+[CV 3/4] END kneighborsclassifier__n_neighbors=30;, score=(train=1.000, test=0.999) total time=  15.7s
+[CV 4/4] END kneighborsclassifier__n_neighbors=30;, score=(train=0.999, test=0.999) total time=  16.5s
+[CV 1/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=0.999) total time=  14.0s
+[CV 2/4] END kneighborsclassifier__n_neighbors=50;, score=(train=0.999, test=1.000) total time=  13.7s
+[CV 3/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=1.000) total time=  14.1s
+[CV 4/4] END kneighborsclassifier__n_neighbors=50;, score=(train=0.999, test=0.999) total time=  13.9s
+[CV 1/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.998, test=0.998) total time=  14.2s
+[CV 2/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.997, test=0.998) total time=  14.1s
+[CV 3/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.997, test=0.997) total time=  14.0s
+[CV 4/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.998, test=0.997) total time=  14.0s
+---------Random State = 168---------
+Fitting 4 folds for each of 7 candidates, totalling 28 fits
+[CV 2/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  13.4s
+[CV 4/4] END kneighborsclassifier__n_neighbors=9;, score=(train=0.999, test=0.999) total time=  13.5s
+[CV 1/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  13.5s
+[CV 1/4] END kneighborsclassifier__n_neighbors=9;, score=(train=1.000, test=0.999) total time=  13.7s
+[CV 3/4] END kneighborsclassifier__n_neighbors=9;, score=(train=0.999, test=1.000) total time=  13.5s
+[CV 2/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.998) total time=  13.6s
+[CV 3/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  13.6s
+[CV 4/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  13.8s
+[CV 1/4] END kneighborsclassifier__n_neighbors=3;, score=(train=1.000, test=1.000) total time=  14.8s
+[CV 2/4] END kneighborsclassifier__n_neighbors=9;, score=(train=0.999, test=0.999) total time=  15.9s
+[CV 4/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  13.6s
+[CV 3/4] END kneighborsclassifier__n_neighbors=12;, score=(train=0.999, test=0.999) total time=  13.7s
+[CV 1/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  13.6s
+[CV 2/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.998) total time=  13.7s
+[CV 4/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  13.7s
+[CV 1/4] END kneighborsclassifier__n_neighbors=30;, score=(train=0.999, test=1.000) total time=  13.8s
+[CV 3/4] END kneighborsclassifier__n_neighbors=15;, score=(train=0.999, test=0.999) total time=  13.7s
+[CV 2/4] END kneighborsclassifier__n_neighbors=30;, score=(train=0.999, test=0.999) total time=  14.2s
+[CV 3/4] END kneighborsclassifier__n_neighbors=30;, score=(train=1.000, test=1.000) total time=  15.4s
+[CV 4/4] END kneighborsclassifier__n_neighbors=30;, score=(train=1.000, test=0.999) total time=  16.3s
+[CV 1/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=1.000) total time=  13.8s
+[CV 2/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=0.999) total time=  13.8s
+[CV 3/4] END kneighborsclassifier__n_neighbors=50;, score=(train=0.999, test=1.000) total time=  13.6s
+[CV 4/4] END kneighborsclassifier__n_neighbors=50;, score=(train=1.000, test=0.999) total time=  13.8s
+[CV 3/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.997, test=0.997) total time=  13.9s
+[CV 2/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.998, test=0.998) total time=  13.9s
+[CV 1/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.997, test=0.998) total time=  14.0s
+[CV 4/4] END kneighborsclassifier__n_neighbors=100;, score=(train=0.998, test=0.998) total time=  13.7s
+------------acuuracy scores of each random state------------
+                             best_parameter  train_score  test_score
+0  {'kneighborsclassifier__n_neighbors': 3}          1.0    1.000000
+1  {'kneighborsclassifier__n_neighbors': 3}          1.0    1.000000
+2  {'kneighborsclassifier__n_neighbors': 3}          1.0    0.999918
+3  {'kneighborsclassifier__n_neighbors': 3}          1.0    0.999918
+4  {'kneighborsclassifier__n_neighbors': 3}          1.0    1.000000
+Test Scores: [1.0, 1.0, 0.9999181267398067, 0.9999181267398067, 1.0]
+Mean accuracy: 0.9999672506959227
+Standard Deviation of accuracy: 4.0109542210324624e-05

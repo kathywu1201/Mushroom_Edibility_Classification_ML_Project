@@ -1,0 +1,101 @@
+___________Model Logistic Regression___________
+---------Random State = 0---------
+Fitting 4 folds for each of 4 candidates, totalling 16 fits
+[CV 2/4] END logisticregression__C=1000.0;, score=(train=0.861, test=0.859) total time=   3.7s
+[CV 3/4] END logisticregression__C=1000.0;, score=(train=0.859, test=0.860) total time=   3.8s
+[CV 4/4] END logisticregression__C=1000.0;, score=(train=0.863, test=0.861) total time=   4.4s
+[CV 1/4] END logisticregression__C=1000.0;, score=(train=0.862, test=0.865) total time=   6.1s
+[CV 4/4] END logisticregression__C=100.0;, score=(train=0.863, test=0.861) total time=   6.2s
+[CV 1/4] END logisticregression__C=100.0;, score=(train=0.862, test=0.865) total time=   6.8s
+[CV 3/4] END logisticregression__C=100.0;, score=(train=0.859, test=0.860) total time=   6.8s
+[CV 1/4] END logisticregression__C=10.0;, score=(train=0.862, test=0.865) total time=   8.4s
+[CV 2/4] END logisticregression__C=100.0;, score=(train=0.861, test=0.859) total time=   9.5s
+[CV 2/4] END logisticregression__C=10.0;, score=(train=0.861, test=0.858) total time=   9.4s
+[CV 1/4] END logisticregression__C=1.0;, score=(train=0.861, test=0.864) total time=   4.8s
+[CV 2/4] END logisticregression__C=1.0;, score=(train=0.861, test=0.859) total time=   3.9s
+[CV 3/4] END logisticregression__C=1.0;, score=(train=0.859, test=0.859) total time=   3.7s
+[CV 4/4] END logisticregression__C=1.0;, score=(train=0.864, test=0.861) total time=   3.5s
+[CV 4/4] END logisticregression__C=10.0;, score=(train=0.864, test=0.861) total time=   6.8s
+[CV 3/4] END logisticregression__C=10.0;, score=(train=0.860, test=0.860) total time=   7.1s
+---------Random State = 42---------
+Fitting 4 folds for each of 4 candidates, totalling 16 fits
+[CV 4/4] END logisticregression__C=1000.0;, score=(train=0.861, test=0.857) total time=   3.8s
+[CV 1/4] END logisticregression__C=1000.0;, score=(train=0.862, test=0.856) total time=   4.9s
+[CV 2/4] END logisticregression__C=1000.0;, score=(train=0.860, test=0.860) total time=   4.9s
+[CV 3/4] END logisticregression__C=1000.0;, score=(train=0.861, test=0.865) total time=   5.1s
+[CV 4/4] END logisticregression__C=100.0;, score=(train=0.861, test=0.857) total time=   6.9s
+[CV 1/4] END logisticregression__C=100.0;, score=(train=0.862, test=0.857) total time=   7.3s
+[CV 2/4] END logisticregression__C=100.0;, score=(train=0.860, test=0.860) total time=   7.5s
+[CV 3/4] END logisticregression__C=100.0;, score=(train=0.861, test=0.865) total time=   7.6s
+[CV 1/4] END logisticregression__C=10.0;, score=(train=0.862, test=0.857) total time=   7.6s
+[CV 2/4] END logisticregression__C=10.0;, score=(train=0.860, test=0.860) total time=   7.7s
+[CV 1/4] END logisticregression__C=1.0;, score=(train=0.861, test=0.857) total time=   3.7s
+[CV 2/4] END logisticregression__C=1.0;, score=(train=0.859, test=0.860) total time=   3.6s
+[CV 4/4] END logisticregression__C=1.0;, score=(train=0.860, test=0.856) total time=   2.8s
+[CV 3/4] END logisticregression__C=1.0;, score=(train=0.860, test=0.866) total time=   3.4s
+[CV 3/4] END logisticregression__C=10.0;, score=(train=0.861, test=0.865) total time=   6.7s
+[CV 4/4] END logisticregression__C=10.0;, score=(train=0.860, test=0.856) total time=   6.0s
+---------Random State = 84---------
+Fitting 4 folds for each of 4 candidates, totalling 16 fits
+[CV 2/4] END logisticregression__C=1000.0;, score=(train=0.859, test=0.862) total time=   3.1s
+[CV 1/4] END logisticregression__C=1000.0;, score=(train=0.860, test=0.861) total time=   3.3s
+[CV 4/4] END logisticregression__C=1000.0;, score=(train=0.863, test=0.859) total time=   3.9s
+[CV 3/4] END logisticregression__C=1000.0;, score=(train=0.861, test=0.857) total time=   4.4s
+[CV 1/4] END logisticregression__C=100.0;, score=(train=0.861, test=0.862) total time=   7.4s
+[CV 2/4] END logisticregression__C=10.0;, score=(train=0.859, test=0.862) total time=   8.7s
+[CV 4/4] END logisticregression__C=100.0;, score=(train=0.863, test=0.859) total time=   8.9s
+[CV 3/4] END logisticregression__C=100.0;, score=(train=0.861, test=0.857) total time=   9.0s
+[CV 2/4] END logisticregression__C=100.0;, score=(train=0.859, test=0.863) total time=   9.0s
+[CV 1/4] END logisticregression__C=10.0;, score=(train=0.861, test=0.861) total time=   9.1s
+[CV 2/4] END logisticregression__C=1.0;, score=(train=0.858, test=0.862) total time=   4.5s
+[CV 1/4] END logisticregression__C=1.0;, score=(train=0.861, test=0.860) total time=   5.2s
+[CV 3/4] END logisticregression__C=1.0;, score=(train=0.861, test=0.857) total time=   2.9s
+[CV 3/4] END logisticregression__C=10.0;, score=(train=0.861, test=0.856) total time=   7.4s
+[CV 4/4] END logisticregression__C=10.0;, score=(train=0.863, test=0.859) total time=   7.2s
+[CV 4/4] END logisticregression__C=1.0;, score=(train=0.861, test=0.858) total time=   2.3s
+---------Random State = 126---------
+Fitting 4 folds for each of 4 candidates, totalling 16 fits
+[CV 3/4] END logisticregression__C=1000.0;, score=(train=0.864, test=0.864) total time=   4.0s
+[CV 1/4] END logisticregression__C=1000.0;, score=(train=0.867, test=0.862) total time=   4.7s
+[CV 2/4] END logisticregression__C=1000.0;, score=(train=0.862, test=0.859) total time=   4.7s
+[CV 4/4] END logisticregression__C=1000.0;, score=(train=0.860, test=0.864) total time=   5.9s
+[CV 1/4] END logisticregression__C=100.0;, score=(train=0.867, test=0.862) total time=   6.9s
+[CV 4/4] END logisticregression__C=100.0;, score=(train=0.860, test=0.864) total time=   6.9s
+[CV 3/4] END logisticregression__C=100.0;, score=(train=0.864, test=0.864) total time=   7.3s
+[CV 2/4] END logisticregression__C=100.0;, score=(train=0.862, test=0.859) total time=   7.7s
+[CV 1/4] END logisticregression__C=10.0;, score=(train=0.866, test=0.862) total time=   7.9s
+[CV 1/4] END logisticregression__C=1.0;, score=(train=0.865, test=0.862) total time=   4.0s
+[CV 2/4] END logisticregression__C=10.0;, score=(train=0.862, test=0.858) total time=   9.7s
+[CV 2/4] END logisticregression__C=1.0;, score=(train=0.862, test=0.858) total time=   3.5s
+[CV 3/4] END logisticregression__C=1.0;, score=(train=0.864, test=0.862) total time=   3.0s
+[CV 4/4] END logisticregression__C=1.0;, score=(train=0.858, test=0.862) total time=   3.2s
+[CV 3/4] END logisticregression__C=10.0;, score=(train=0.864, test=0.863) total time=   6.4s
+[CV 4/4] END logisticregression__C=10.0;, score=(train=0.860, test=0.863) total time=   6.2s
+---------Random State = 168---------
+Fitting 4 folds for each of 4 candidates, totalling 16 fits
+[CV 1/4] END logisticregression__C=1000.0;, score=(train=0.863, test=0.864) total time=   3.5s
+[CV 2/4] END logisticregression__C=1000.0;, score=(train=0.862, test=0.864) total time=   4.4s
+[CV 3/4] END logisticregression__C=1000.0;, score=(train=0.863, test=0.859) total time=   4.4s
+[CV 4/4] END logisticregression__C=1000.0;, score=(train=0.864, test=0.860) total time=   6.8s
+[CV 1/4] END logisticregression__C=100.0;, score=(train=0.863, test=0.864) total time=   6.7s
+[CV 4/4] END logisticregression__C=100.0;, score=(train=0.864, test=0.860) total time=   6.9s
+[CV 3/4] END logisticregression__C=100.0;, score=(train=0.863, test=0.859) total time=   8.2s
+[CV 2/4] END logisticregression__C=10.0;, score=(train=0.862, test=0.864) total time=   8.4s
+[CV 1/4] END logisticregression__C=10.0;, score=(train=0.863, test=0.864) total time=   8.5s
+[CV 2/4] END logisticregression__C=100.0;, score=(train=0.862, test=0.864) total time=   8.8s
+[CV 1/4] END logisticregression__C=1.0;, score=(train=0.862, test=0.864) total time=   4.7s
+[CV 3/4] END logisticregression__C=1.0;, score=(train=0.863, test=0.859) total time=   3.5s
+[CV 2/4] END logisticregression__C=1.0;, score=(train=0.862, test=0.865) total time=   3.6s
+[CV 4/4] END logisticregression__C=1.0;, score=(train=0.864, test=0.861) total time=   3.5s
+[CV 4/4] END logisticregression__C=10.0;, score=(train=0.864, test=0.862) total time=   6.8s
+[CV 3/4] END logisticregression__C=10.0;, score=(train=0.863, test=0.859) total time=   8.3s
+------------acuuracy scores of each random state------------
+                      best_parameter  train_score  test_score
+0   {'logisticregression__C': 100.0}     0.861590    0.863681
+1  {'logisticregression__C': 1000.0}     0.860362    0.861716
+2   {'logisticregression__C': 100.0}     0.860608    0.862207
+3  {'logisticregression__C': 1000.0}     0.862593    0.859096
+4     {'logisticregression__C': 1.0}     0.862614    0.863190
+Test Scores: [0.8636810217782872, 0.8617160635336499, 0.8622073030948092, 0.8590961192074669, 0.8631897822171278]
+Mean accuracy: 0.8619780579662683
+Standard Deviation of accuracy: 0.0015996953976511743
