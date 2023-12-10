@@ -1,7 +1,7 @@
 # Mushroom_Edibility_Classification_ML_Project
 
 ## Overview
-This is a project from Data1030 at Brown University.\
+This is a project from Data1030 course at Brown University.\
 In this report, we will be able clssify unrecorded mushroom based on their edibility. The importance of this project is that the machine learning model can help to minimize the risk of death and intoxication due to poisonous mushroom.
 
 ## Programming Language
