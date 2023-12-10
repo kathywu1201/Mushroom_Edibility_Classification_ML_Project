@@ -12,7 +12,7 @@ The used packages can be founded using mushroom_project.yml.
 Mushroom Edibility Classification dataset uploaded by DEVZOHAIB.\
 URL: https://www.kaggle.com/datasets/devzohaib/mushroom-edibility-classification/data?select=secondary_data_meta.txt 
 
-## Algorithm Used
+## Algorithms Used
 - Logistic Regression
 - Random Forest
 - K Nearest Neighbors
